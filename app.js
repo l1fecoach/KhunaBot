@@ -13,7 +13,7 @@ var options = {
         username: "e_juice",
         password: oauth.password
     },
-    channels: ["lifecoach_1337"]
+    channels: ["#lifecoach_1337"]
 }
 
 var client = new tmi.client(options);
